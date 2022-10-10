@@ -1,0 +1,16 @@
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\thrirdValue.GlobalUsings.g.cs
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\thrirdValue.csproj.AssemblyReference.cache
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\thrirdValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\thrirdValue.AssemblyInfoInputs.cache
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\thrirdValue.AssemblyInfo.cs
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\thrirdValue.csproj.CoreCompileInputs.cache
+D:\Visual studio\hw test\hw sem 2\thrirdValue\bin\Debug\net6.0\thrirdValue.exe
+D:\Visual studio\hw test\hw sem 2\thrirdValue\bin\Debug\net6.0\thrirdValue.deps.json
+D:\Visual studio\hw test\hw sem 2\thrirdValue\bin\Debug\net6.0\thrirdValue.runtimeconfig.json
+D:\Visual studio\hw test\hw sem 2\thrirdValue\bin\Debug\net6.0\thrirdValue.dll
+D:\Visual studio\hw test\hw sem 2\thrirdValue\bin\Debug\net6.0\ref\thrirdValue.dll
+D:\Visual studio\hw test\hw sem 2\thrirdValue\bin\Debug\net6.0\thrirdValue.pdb
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\thrirdValue.dll
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\ref\thrirdValue.dll
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\thrirdValue.pdb
+D:\Visual studio\hw test\hw sem 2\thrirdValue\obj\Debug\net6.0\thrirdValue.genruntimeconfig.cache

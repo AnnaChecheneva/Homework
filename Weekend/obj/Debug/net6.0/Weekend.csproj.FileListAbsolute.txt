@@ -1,0 +1,16 @@
+D:\Visual studio\hw test\hw sem 2\Weekend\bin\Debug\net6.0\Weekend.exe
+D:\Visual studio\hw test\hw sem 2\Weekend\bin\Debug\net6.0\Weekend.deps.json
+D:\Visual studio\hw test\hw sem 2\Weekend\bin\Debug\net6.0\Weekend.runtimeconfig.json
+D:\Visual studio\hw test\hw sem 2\Weekend\bin\Debug\net6.0\Weekend.dll
+D:\Visual studio\hw test\hw sem 2\Weekend\bin\Debug\net6.0\ref\Weekend.dll
+D:\Visual studio\hw test\hw sem 2\Weekend\bin\Debug\net6.0\Weekend.pdb
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\Weekend.GlobalUsings.g.cs
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\Weekend.csproj.AssemblyReference.cache
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\Weekend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\Weekend.AssemblyInfoInputs.cache
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\Weekend.AssemblyInfo.cs
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\Weekend.csproj.CoreCompileInputs.cache
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\Weekend.dll
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\ref\Weekend.dll
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\Weekend.pdb
+D:\Visual studio\hw test\hw sem 2\Weekend\obj\Debug\net6.0\Weekend.genruntimeconfig.cache

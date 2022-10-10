@@ -1,0 +1,16 @@
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\bin\Debug\net6.0\DeleteSecondValue.exe
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\bin\Debug\net6.0\DeleteSecondValue.deps.json
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\bin\Debug\net6.0\DeleteSecondValue.runtimeconfig.json
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\bin\Debug\net6.0\DeleteSecondValue.dll
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\bin\Debug\net6.0\ref\DeleteSecondValue.dll
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\bin\Debug\net6.0\DeleteSecondValue.pdb
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\DeleteSecondValue.GlobalUsings.g.cs
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\DeleteSecondValue.csproj.AssemblyReference.cache
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\DeleteSecondValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\DeleteSecondValue.AssemblyInfoInputs.cache
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\DeleteSecondValue.AssemblyInfo.cs
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\DeleteSecondValue.csproj.CoreCompileInputs.cache
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\DeleteSecondValue.dll
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\ref\DeleteSecondValue.dll
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\DeleteSecondValue.pdb
+D:\Visual studio\hw test\hw sem 2\DeleteSecondValue\obj\Debug\net6.0\DeleteSecondValue.genruntimeconfig.cache

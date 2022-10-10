@@ -1,0 +1,16 @@
+D:\Visual studio\hw test\hw sem 2\secondValue\bin\Debug\net6.0\secondValue.exe
+D:\Visual studio\hw test\hw sem 2\secondValue\bin\Debug\net6.0\secondValue.deps.json
+D:\Visual studio\hw test\hw sem 2\secondValue\bin\Debug\net6.0\secondValue.runtimeconfig.json
+D:\Visual studio\hw test\hw sem 2\secondValue\bin\Debug\net6.0\secondValue.dll
+D:\Visual studio\hw test\hw sem 2\secondValue\bin\Debug\net6.0\ref\secondValue.dll
+D:\Visual studio\hw test\hw sem 2\secondValue\bin\Debug\net6.0\secondValue.pdb
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\secondValue.GlobalUsings.g.cs
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\secondValue.csproj.AssemblyReference.cache
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\secondValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\secondValue.AssemblyInfoInputs.cache
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\secondValue.AssemblyInfo.cs
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\secondValue.csproj.CoreCompileInputs.cache
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\secondValue.dll
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\ref\secondValue.dll
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\secondValue.pdb
+D:\Visual studio\hw test\hw sem 2\secondValue\obj\Debug\net6.0\secondValue.genruntimeconfig.cache
